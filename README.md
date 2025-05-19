@@ -1,6 +1,6 @@
 # langchain
 
-# DataSlush Movie Recommendation Engine
+# Movie Recommendation Engine
 
 ## Overview
 
